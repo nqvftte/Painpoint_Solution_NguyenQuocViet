@@ -1,0 +1,69 @@
+[
+    {
+      "feature_name": "Journeys",
+      "category": "Voice of Customer (VoC)",
+      "description": "Manage and visualize customer journeys and touchpoints across various channels.",
+      "tags": ["customer journey", "touchpoints", "mapping", "VoC"]
+    },
+    {
+      "feature_name": "Surveys",
+      "category": "Voice of Customer (VoC)",
+      "description": "Design and deploy surveys across Web, Mobile, Zalo, SMS, Email, QR, and POS systems to gather customer feedback.",
+      "tags": ["survey", "feedback", "multichannel", "VoC", "customer insight"]
+    },
+    {
+      "feature_name": "Reviews",
+      "category": "Voice of Customer (VoC)",
+      "description": "Aggregate and analyze customer reviews from multiple platforms to extract key insights.",
+      "tags": ["review analysis", "sentiment", "VoC", "feedback aggregation"]
+    },
+    {
+      "feature_name": "Conversations",
+      "category": "Voice of Customer (VoC)",
+      "description": "Listen to and analyze customer conversations across chat, call, and email channels.",
+      "tags": ["conversation analysis", "calls", "chats", "emails", "VoC"]
+    },
+    {
+      "feature_name": "AI Inbox",
+      "category": "AI Customer Service",
+      "description": "A smart contact center where human agents collaborate seamlessly with AI agents to improve response efficiency.",
+      "tags": ["AI agent", "support automation", "customer service", "inbox", "first response"]
+    },
+    {
+      "feature_name": "Tickets",
+      "category": "AI Customer Service",
+      "description": "A comprehensive system to manage customer service tickets and resolve issues efficiently.",
+      "tags": ["ticketing", "support system", "customer service", "issue tracking"]
+    },
+    {
+      "feature_name": "Experience",
+      "category": "Insights",
+      "description": "Gain deep insights into customer experiences across touchpoints with topic and sentiment analysis.",
+      "tags": ["experience analytics", "sentiment", "topic modeling", "customer insight", "touchpoints"]
+    },
+    {
+      "feature_name": "Operation",
+      "category": "Insights",
+      "description": "Monitor and evaluate the performance of surveys, engagement campaigns, contact center activity, and tickets.",
+      "tags": ["performance monitoring", "operations", "campaigns", "survey performance", "contact center"]
+    },
+    {
+      "feature_name": "Customers",
+      "category": "Customer 360",
+      "description": "Manage customer data, build unified profiles, and segment audiences for better targeting.",
+      "tags": ["customer data", "segmentation", "CRM", "customer profile"]
+    },
+    {
+      "feature_name": "Engagement",
+      "category": "Customer 360",
+      "description": "Run automated and targeted engagement campaigns to connect with customers effectively.",
+      "tags": ["customer engagement", "campaign", "automation", "marketing"]
+    },
+    {
+      "feature_name": "AI & Automation Settings",
+      "category": "AI & Automation",
+      "description": "Configure and manage AI models and automation workflows tailored to customer service operations.",
+      "tags": ["AI settings", "automation", "workflow", "model configuration"]
+    }
+  ]
+  
