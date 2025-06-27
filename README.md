@@ -13,6 +13,7 @@ You can run this project directly on **Google Colab** without any local installa
 ### 🔗 Run in Colab:
 
 > 👉 [Open Nguyen_Quoc_Viet_AI_Engineer_Intern_Assignments_FILUMAI.ipynb in Google Colab](https://colab.research.google.com/drive/1Na0FTwjgBIs-um-EGQL8tbGRVVcp5lyq?usp=sharing))
+### 💡 Example Pain Points and Outputs
 🔹 Example 1
-> Input (pain point): We're struggling to collect customer feedback consistently after a purchase.
-> Output (matched feature): Surveys (Voice of Customer) – How it helps: Collects customer feedback consistently after a purchase through automated surveys, providing valuable insights to improve customer experience.
+🔍 Input (pain point): We're struggling to collect customer feedback consistently after a purchase.
+💬 Output: (matched feature): Surveys (Voice of Customer) – How it helps: Collects customer feedback consistently after a purchase through automated surveys, providing valuable insights to improve customer experience.
